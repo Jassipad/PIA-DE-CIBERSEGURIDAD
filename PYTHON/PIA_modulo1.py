@@ -1,6 +1,3 @@
-"""
-Módulo de Búsqueda en Google - Versión Corregida
-"""
 import logging
 from googlesearch import search
 from datetime import datetime
