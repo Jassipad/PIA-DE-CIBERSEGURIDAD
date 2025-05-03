@@ -13,7 +13,45 @@ En el módulo 1, es necesario verificar primero el archivo deseado desde el API 
 En el módulo 2, solamente es introducir la ruta del directorio donde se buscarán los archivos ocultos.
 
 BASH
+# Herramientas de Ciberseguridad para Git Bash
 
+## 🔍 1. Escaneo de Puertos
+- **Función**: Escanea puertos TCP/UDP en un objetivo
+- **Características**:
+  - Menú interactivo con 7 opciones
+  - Detección de puertos abiertos/cerrados
+  - Ping automático a redes con máscara configurable
+  - Genera reportes en archivo
+
+## 📡 2. Monitor de Red
+- **Función**: Analiza tráfico y conexiones de red
+- **Características**:
+  - Monitoreo de interfaces y ancho de banda
+  - Ping continuo y traceroute integrado
+  - Muestra conexiones activas TCP/UDP
+  - Configuración de tiempos personalizados
+
+**Uso**: Ejecutar con `bash nombre_script.sh` en Git Bash
+
+# Herramientas de Ciberseguridad para Git Bash
+
+## 📋 Requisitos Previos
+
+### Para ambos scripts:
+- **Git Bash** (instalado con [Git para Windows](https://gitforwindows.org/))
+- **Paquetes básicos de red** (vienen con Windows)
+
+### 🔍 1. Escaneo de Puertos
+- **Herramientas requeridas**:
+  ```bash
+  # Instalar netcat (opcional para escaneo UDP)
+  choco install netcat -y  # Usando Chocolatey
+  # O descargar manualmente de https://nmap.org/ncat/
+
+ejecutar los archivos:
+  bash escaneo_puertos.sh
+# o
+bash escaneo_redes.sh
 
 
 
@@ -34,3 +72,7 @@ Desde el menú podrás:
 3. Analizar los links con AbuseIPDB
 4. Generar un reporte completo
 5. Salir
+
+
+
+
