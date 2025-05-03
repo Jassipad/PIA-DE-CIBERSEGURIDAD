@@ -1,7 +1,3 @@
-"""
-Módulo VirusTotal - Versión Funcional Corregida
-"""
-
 import requests
 import json
 import os
