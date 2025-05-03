@@ -1,7 +1,3 @@
-"""
-Módulo de Generación de Reportes - Versión Funcional
-"""
-
 import json
 import os
 from datetime import datetime
