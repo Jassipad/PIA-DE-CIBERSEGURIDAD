@@ -1,0 +1,40 @@
+2025-05-02 16:39:49,260 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 16:39:50,105 - PIA_modulo1 - INFO - Resultados guardados en salidas/resultados_busqueda_20250502_163950.txt
+2025-05-02 16:40:57,867 - PIA_modulo2 - INFO - Leídas 0 URLs desde salidas/resultados_busqueda_20250502_163950.txt
+2025-05-02 16:40:57,867 - PIA_modulo3 - INFO - Resultados VirusTotal guardados en salidas/virustotal_20250502_164057.json
+2025-05-02 16:47:05,164 - PIA_modulo2 - INFO - Leídas 0 URLs desde salidas/resultados_busqueda_20250502_163950.txt
+2025-05-02 16:47:05,165 - PIA_modulo4 - INFO - Resultados AbuseIPDB guardados en salidas/abuseipdb_20250502_164705.json
+2025-05-02 16:47:19,021 - PIA_modulo5 - INFO - Reporte generado en salidas/reporte_final_20250502_164719.txt
+2025-05-02 16:48:30,195 - PIA_modulo1 - INFO - Iniciando búsqueda: UANL
+2025-05-02 16:48:30,921 - PIA_modulo1 - INFO - Resultados guardados en salidas/resultados_busqueda_20250502_164830.txt
+2025-05-02 16:55:43,889 - PIA_modulo1 - INFO - Iniciando búsqueda: UANL
+2025-05-02 16:55:44,651 - PIA_modulo1 - INFO - Resultados guardados en salidas/resultados_busqueda_20250502_165544.txt
+2025-05-02 16:55:49,992 - PIA_modulo3 - INFO - Resultados guardados en salidas/virustotal_20250502_165549.json
+2025-05-02 16:55:58,921 - PIA_modulo4 - INFO - Resultados guardados en salidas/abuseipdb_20250502_165558.json
+2025-05-02 16:56:02,903 - PIA_modulo5 - INFO - Reporte generado en salidas/reporte_final_20250502_165602.txt
+2025-05-02 17:10:55,280 - PIA_modulo1 - INFO - Iniciando búsqueda: 'UANL'
+2025-05-02 17:10:55,280 - PIA_modulo1 - ERROR - Error en búsqueda: search() got an unexpected keyword argument 'query'
+2025-05-02 17:11:02,696 - PIA_modulo1 - INFO - Iniciando búsqueda: 'uanl'
+2025-05-02 17:11:02,696 - PIA_modulo1 - ERROR - Error en búsqueda: search() got an unexpected keyword argument 'query'
+2025-05-02 17:15:47,467 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 17:15:50,321 - PIA_modulo1 - INFO - Resultados guardados en salidas/resultados_20250502_171550.txt
+2025-05-02 17:16:00,181 - PIA_modulo3 - WARNING - Error con Búsqueda: uanl: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:00,683 - PIA_modulo3 - WARNING - Error con Fecha: 20250502_171550: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:01,156 - PIA_modulo3 - WARNING - Error con 1. https://www.uanl.mx/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:01,514 - PIA_modulo3 - WARNING - Error con 2. https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:01,832 - PIA_modulo3 - WARNING - Error con 3. https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:02,208 - PIA_modulo3 - WARNING - Error con 4. https://www.facebook.com/uanlred/?locale=es_LA: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:02,563 - PIA_modulo3 - WARNING - Error con 5. https://www.instagram.com/uanlred/?hl=es: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:03,049 - PIA_modulo3 - WARNING - Error con 6. https://www.youtube.com/uanl: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:03,459 - PIA_modulo3 - WARNING - Error con 7. https://www.facebook.com/Concurso.Ingreso.Uanl/?locale=es_ES: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:03,869 - PIA_modulo3 - WARNING - Error con 8. https://fundacionuanl.org.mx/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls
+2025-05-02 17:16:14,032 - PIA_modulo4 - WARNING - Error con Búsqueda: uanl: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:14,304 - PIA_modulo4 - WARNING - Error con Fecha: 20250502_171550: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:14,576 - PIA_modulo4 - WARNING - Error con 1. https://www.uanl.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:14,861 - PIA_modulo4 - WARNING - Error con 2. https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:15,132 - PIA_modulo4 - WARNING - Error con 3. https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:15,393 - PIA_modulo4 - WARNING - Error con 4. https://www.facebook.com/uanlred/?locale=es_LA: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:15,675 - PIA_modulo4 - WARNING - Error con 5. https://www.instagram.com/uanlred/?hl=es: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:15,956 - PIA_modulo4 - WARNING - Error con 6. https://www.youtube.com/uanl: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:16,219 - PIA_modulo4 - WARNING - Error con 7. https://www.facebook.com/Concurso.Ingreso.Uanl/?locale=es_ES: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90
+2025-05-02 17:16:16,463 - PIA_modulo4 - WARNING - Error con 8. https://fundacionuanl.org.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=&maxAgeInDays=90

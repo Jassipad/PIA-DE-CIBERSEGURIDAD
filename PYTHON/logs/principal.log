@@ -1,0 +1,106 @@
+2025-05-02 22:04:22,560 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 22:04:48,136 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 22:04:57,571 - PIA_modulo3 - WARNING - Error analizando https://www.uanl.mx/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-d7e2dc9a8dc62f2b7b1350af6aa2171d1f459162cb9efe58ae6fbf4f328e6427-1746245097
+2025-05-02 22:04:58,030 - PIA_modulo3 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-6c947b0c633d73b41aa4253164358fb89c5e7ee193127b297e440bac78509943-1746245097
+2025-05-02 22:04:58,527 - PIA_modulo3 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-384112242ef97e76840e6fb6049d91fafcc5a8efea9a619f6d1537897140fb9c-1746245098
+2025-05-02 22:04:59,106 - PIA_modulo3 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-02c968c9898e109be1a92fd37066800a85900fd38325abf109ff213ad15d215d-1746245098
+2025-05-02 22:04:59,492 - PIA_modulo3 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-f64d744f2840708aa0b88f5699a07812766510b96e3bb5a3dd10ed10d617cf81-1746245099
+2025-05-02 22:05:00,045 - PIA_modulo3 - WARNING - Error analizando https://www.youtube.com/uanl: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-7bf42343125f6d6d6922fe5b66752106b7b61e0b1ab0d277ad4b1b20e972ae78-1746245099
+2025-05-02 22:05:00,648 - PIA_modulo3 - WARNING - Error analizando https://fundacionuanl.org.mx/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-b3f397cc81f8b0d73b6ca0c408cf676aeaa722f6c4f20c0ead337abcfec276fb-1746245100
+2025-05-02 22:05:01,174 - PIA_modulo3 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-6c947b0c633d73b41aa4253164358fb89c5e7ee193127b297e440bac78509943-1746245097
+2025-05-02 22:05:01,819 - PIA_modulo3 - WARNING - Error analizando https://www.reddit.com/r/uanl/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-4357ac58d85a35b83d6d67fd24bac66f296e6fb4b5a8ab28ef982b586dbf1bc6-1746245101
+2025-05-02 22:05:02,534 - PIA_modulo3 - WARNING - Error analizando https://www.linkedin.com/school/uanl/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-c0e2aafa1bbc40da69932a4c37a1632732b8cf5cfd3084ed00ce291a6739c357-1746245102
+2025-05-02 22:05:02,535 - PIA_modulo3 - INFO - Resultados guardados en salidas/virustotal_20250502_220502.json
+2025-05-02 22:05:14,108 - PIA_modulo4 - WARNING - Error analizando https://www.uanl.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.uanl.mx&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:14,366 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=es.wikipedia.org&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:14,721 - PIA_modulo4 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=twitter.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:15,146 - PIA_modulo4 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.facebook.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:15,390 - PIA_modulo4 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.instagram.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:15,745 - PIA_modulo4 - WARNING - Error analizando https://www.youtube.com/uanl: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.youtube.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:15,988 - PIA_modulo4 - WARNING - Error analizando https://fundacionuanl.org.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=fundacionuanl.org.mx&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:16,224 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=es.wikipedia.org&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:16,657 - PIA_modulo4 - WARNING - Error analizando https://www.reddit.com/r/uanl/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.reddit.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:16,974 - PIA_modulo4 - WARNING - Error analizando https://www.linkedin.com/school/uanl/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.linkedin.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:05:16,974 - PIA_modulo4 - INFO - Resultados guardados en salidas/abuseipdb_20250502_220516.json
+2025-05-02 22:05:25,591 - PIA_modulo5 - INFO - Generando reporte con salidas/virustotal_20250502_220502.json y salidas/abuseipdb_20250502_220516.json
+2025-05-02 22:05:25,592 - PIA_modulo5 - ERROR - Error generando reporte: 'GeneradorReportes' object has no attribute '_escribir_cabecera'
+2025-05-02 22:05:25,592 - __main__ - ERROR - Error en opción 4: 'GeneradorReportes' object has no attribute '_escribir_cabecera'
+2025-05-02 22:07:50,485 - PIA_modulo5 - INFO - Generando reporte con salidas/virustotal_20250502_220502.json y salidas/abuseipdb_20250502_220516.json
+2025-05-02 22:07:50,486 - PIA_modulo5 - ERROR - Error generando reporte: 'GeneradorReportes' object has no attribute '_escribir_cabecera'
+2025-05-02 22:07:50,486 - __main__ - ERROR - Error en opción 4: 'GeneradorReportes' object has no attribute '_escribir_cabecera'
+2025-05-02 22:08:26,597 - PIA_modulo5 - INFO - Generando reporte con salidas/virustotal_20250502_220502.json y salidas/abuseipdb_20250502_220516.json
+2025-05-02 22:08:26,598 - PIA_modulo5 - ERROR - Error generando reporte: 'GeneradorReportes' object has no attribute '_escribir_cabecera'
+2025-05-02 22:08:26,598 - __main__ - ERROR - Error en opción 4: 'GeneradorReportes' object has no attribute '_escribir_cabecera'
+2025-05-02 22:10:20,778 - __main__ - INFO - Sistema terminado
+2025-05-02 22:11:24,259 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 22:11:31,703 - PIA_modulo3 - WARNING - Error analizando https://www.uanl.mx/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-d7e2dc9a8dc62f2b7b1350af6aa2171d1f459162cb9efe58ae6fbf4f328e6427-1746245097
+2025-05-02 22:11:32,106 - PIA_modulo3 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-6c947b0c633d73b41aa4253164358fb89c5e7ee193127b297e440bac78509943-1746245097
+2025-05-02 22:11:32,536 - PIA_modulo3 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-384112242ef97e76840e6fb6049d91fafcc5a8efea9a619f6d1537897140fb9c-1746245098
+2025-05-02 22:11:32,914 - PIA_modulo3 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-02c968c9898e109be1a92fd37066800a85900fd38325abf109ff213ad15d215d-1746245098
+2025-05-02 22:11:33,558 - PIA_modulo3 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-f64d744f2840708aa0b88f5699a07812766510b96e3bb5a3dd10ed10d617cf81-1746245099
+2025-05-02 22:11:33,940 - PIA_modulo3 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-6c947b0c633d73b41aa4253164358fb89c5e7ee193127b297e440bac78509943-1746245097
+2025-05-02 22:11:34,695 - PIA_modulo3 - WARNING - Error analizando https://www.youtube.com/uanl: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-7bf42343125f6d6d6922fe5b66752106b7b61e0b1ab0d277ad4b1b20e972ae78-1746245099
+2025-05-02 22:11:35,205 - PIA_modulo3 - WARNING - Error analizando https://fundacionuanl.org.mx/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-b3f397cc81f8b0d73b6ca0c408cf676aeaa722f6c4f20c0ead337abcfec276fb-1746245100
+2025-05-02 22:11:35,669 - PIA_modulo3 - WARNING - Error analizando https://www.linkedin.com/school/uanl/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-c0e2aafa1bbc40da69932a4c37a1632732b8cf5cfd3084ed00ce291a6739c357-1746245102
+2025-05-02 22:11:36,184 - PIA_modulo3 - WARNING - Error analizando https://www.reddit.com/r/uanl/: 400 Client Error: Bad Request for url: https://www.virustotal.com/api/v3/urls/u-4357ac58d85a35b83d6d67fd24bac66f296e6fb4b5a8ab28ef982b586dbf1bc6-1746245101
+2025-05-02 22:11:36,185 - PIA_modulo3 - INFO - Resultados guardados en salidas/virustotal_20250502_221136.json
+2025-05-02 22:11:42,586 - PIA_modulo4 - WARNING - Error analizando https://www.uanl.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.uanl.mx&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:42,926 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=es.wikipedia.org&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:43,296 - PIA_modulo4 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=twitter.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:43,532 - PIA_modulo4 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.facebook.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:43,784 - PIA_modulo4 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.instagram.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:44,065 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=es.wikipedia.org&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:44,419 - PIA_modulo4 - WARNING - Error analizando https://www.youtube.com/uanl: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.youtube.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:44,715 - PIA_modulo4 - WARNING - Error analizando https://fundacionuanl.org.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=fundacionuanl.org.mx&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:45,035 - PIA_modulo4 - WARNING - Error analizando https://www.linkedin.com/school/uanl/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.linkedin.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:45,283 - PIA_modulo4 - WARNING - Error analizando https://www.reddit.com/r/uanl/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.reddit.com&maxAgeInDays=90&verbose=True
+2025-05-02 22:11:45,284 - PIA_modulo4 - INFO - Resultados guardados en salidas/abuseipdb_20250502_221145.json
+2025-05-02 22:11:49,888 - PIA_modulo5 - INFO - Iniciando generación de reporte con salidas/virustotal_20250502_221136.json y salidas/abuseipdb_20250502_221145.json
+2025-05-02 22:11:49,888 - PIA_modulo5 - ERROR - Error generando reporte: Error leyendo VirusTotal: Datos vacíos en VirusTotal
+2025-05-02 22:11:49,889 - __main__ - ERROR - Error en opción 4: Error leyendo VirusTotal: Datos vacíos en VirusTotal
+2025-05-02 22:17:13,874 - __main__ - INFO - Sistema terminado
+2025-05-02 22:17:30,440 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 22:17:37,224 - PIA_modulo3 - INFO - URL analizada: https://www.uanl.mx/
+2025-05-02 22:17:37,774 - PIA_modulo3 - INFO - URL analizada: https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n
+2025-05-02 22:17:38,085 - PIA_modulo3 - INFO - URL analizada: https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+2025-05-02 22:17:38,485 - PIA_modulo3 - INFO - URL analizada: https://www.facebook.com/uanlred/?locale=es_LA
+2025-05-02 22:17:38,832 - PIA_modulo3 - INFO - URL analizada: https://www.instagram.com/uanlred/?hl=es
+2025-05-02 22:17:38,833 - PIA_modulo3 - INFO - Resultados guardados en salidas/virustotal_20250502_221738.json
+2025-05-02 22:17:38,834 - __main__ - ERROR - Error en opción 2: 'data'
+2025-05-02 22:17:47,508 - PIA_modulo4 - WARNING - Error analizando https://www.uanl.mx/: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.uanl.mx&maxAgeInDays=90
+2025-05-02 22:17:47,758 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=es.wikipedia.org&maxAgeInDays=90
+2025-05-02 22:17:48,008 - PIA_modulo4 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=twitter.com&maxAgeInDays=90
+2025-05-02 22:17:48,259 - PIA_modulo4 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.facebook.com&maxAgeInDays=90
+2025-05-02 22:17:48,504 - PIA_modulo4 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: 422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=www.instagram.com&maxAgeInDays=90
+2025-05-02 22:17:48,505 - PIA_modulo4 - INFO - Resultados guardados en salidas/abuseipdb_20250502_221748.json
+2025-05-02 22:17:59,169 - PIA_modulo5 - INFO - Iniciando generación de reporte con salidas/virustotal_20250502_221738.json y salidas/abuseipdb_20250502_221748.json
+2025-05-02 22:17:59,169 - PIA_modulo5 - ERROR - Error generando reporte: Error leyendo AbuseIPDB: Datos vacíos en AbuseIPDB
+2025-05-02 22:17:59,169 - __main__ - ERROR - Error en opción 4: Error leyendo AbuseIPDB: Datos vacíos en AbuseIPDB
+2025-05-02 22:18:28,207 - PIA_modulo5 - INFO - Iniciando generación de reporte con salidas/virustotal_20250502_221738.json y salidas/abuseipdb_20250502_221748.json
+2025-05-02 22:18:28,207 - PIA_modulo5 - ERROR - Error generando reporte: Error leyendo AbuseIPDB: Datos vacíos en AbuseIPDB
+2025-05-02 22:18:28,207 - __main__ - ERROR - Error en opción 4: Error leyendo AbuseIPDB: Datos vacíos en AbuseIPDB
+2025-05-02 22:23:17,791 - __main__ - INFO - Sistema terminado
+2025-05-02 22:24:29,956 - __main__ - INFO - Sistema terminado
+2025-05-02 22:25:15,898 - __main__ - INFO - Sistema terminado
+2025-05-02 22:26:51,998 - __main__ - INFO - Sistema terminado
+2025-05-02 22:27:30,608 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 22:28:03,678 - PIA_modulo1 - INFO - Iniciando búsqueda: uanl
+2025-05-02 22:28:10,816 - PIA_modulo3 - INFO - URL analizada: https://www.uanl.mx/
+2025-05-02 22:28:11,229 - PIA_modulo3 - INFO - URL analizada: https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n
+2025-05-02 22:28:11,639 - PIA_modulo3 - INFO - URL analizada: https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+2025-05-02 22:28:12,058 - PIA_modulo3 - INFO - URL analizada: https://www.facebook.com/uanlred/?locale=es_LA
+2025-05-02 22:28:12,450 - PIA_modulo3 - INFO - URL analizada: https://www.instagram.com/uanlred/?hl=es
+2025-05-02 22:28:12,450 - PIA_modulo3 - INFO - Resultados guardados en salidas/virustotal_20250502_222812.json
+2025-05-02 22:28:12,452 - __main__ - ERROR - Error en opción 2: 'data'
+2025-05-02 22:28:14,712 - PIA_modulo4 - WARNING - Error analizando https://www.uanl.mx/: Código de estado: 422
+2025-05-02 22:28:15,067 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: Código de estado: 422
+2025-05-02 22:28:15,307 - PIA_modulo4 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: Código de estado: 422
+2025-05-02 22:28:15,682 - PIA_modulo4 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: Código de estado: 422
+2025-05-02 22:28:15,925 - PIA_modulo4 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: Código de estado: 422
+2025-05-02 22:28:15,925 - PIA_modulo4 - ERROR - Error en análisis: No se pudo analizar ninguna URL
+2025-05-02 22:30:28,884 - PIA_modulo4 - WARNING - Error analizando https://www.uanl.mx/: Código de estado: 422
+2025-05-02 22:30:29,135 - PIA_modulo4 - WARNING - Error analizando https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n: Código de estado: 422
+2025-05-02 22:30:29,394 - PIA_modulo4 - WARNING - Error analizando https://twitter.com/uanl/status/1918440373052977295?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet: Código de estado: 422
+2025-05-02 22:30:29,752 - PIA_modulo4 - WARNING - Error analizando https://www.facebook.com/uanlred/?locale=es_LA: Código de estado: 422
+2025-05-02 22:30:30,059 - PIA_modulo4 - WARNING - Error analizando https://www.instagram.com/uanlred/?hl=es: Código de estado: 422
+2025-05-02 22:30:30,059 - PIA_modulo4 - ERROR - Error en análisis: No se pudo analizar ninguna URL

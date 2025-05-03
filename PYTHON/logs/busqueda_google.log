@@ -1,0 +1,3 @@
+2025-05-02 16:29:01,622 - PIA_modulo1 - INFO - Iniciando búsqueda: ejemplo.com
+2025-05-02 16:29:02,310 - PIA_modulo1 - INFO - Resultados guardados en salidas/resultados_20250502_162902.txt
+2025-05-02 16:29:02,641 - PIA_modulo2 - ERROR - 401 Client Error: Unauthorized for url: https://www.virustotal.com/api/v3/urls
