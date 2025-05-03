@@ -1,8 +1,3 @@
-"""
-Script Principal - Análisis de Seguridad Web
-Versión: 4.0 (Corregido y optimizado)
-"""
-
 import os
 import json
 import logging
