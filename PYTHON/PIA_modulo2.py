@@ -1,6 +1,3 @@
-"""
-Módulo de Procesamiento de URLs - Versión Corregida
-"""
 import logging
 import os
 
